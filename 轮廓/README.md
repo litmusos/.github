@@ -11,6 +11,7 @@ Tencent QQ group : [CHICK HERE](https://jq.qq.com/?_wv=1027&k=VfUw3Mes "Tencent 
 | ----------- | ----------------------- |
 | XIAOMI      | 6~13       |
 | /MIX   | 2(S)~3        |
+| /(REDMI)NOTE   | 4X        |
 | REDMI   | Number series does not fit        |
 | /NOTE   | 7~12(ALL)        |
 | /K   | 20~60(ALL)        |
