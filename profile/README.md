@@ -1,11 +1,14 @@
 ## ⚠ 请注意
 ###### 请不要对此页面使用浏览器翻译，您可以使用翻译工具。
 <div  align="center">    
-  <img src="https://s1.ax1x.com/2023/02/01/pSBl6K0.md.png" width = "300" height = "200" alt="图片名称" align=center />
-  <img src="https://s1.ax1x.com/2023/02/01/pSBl6K0.md.png" width = "300" height = "200" alt="图片名称" align=center />
+  <img src="https://s1.ax1x.com/2023/02/08/pSRlwng.png" width = "100" height = "100" alt="图片名称" align=center />
+</div>
+  
+<div  align="center">    
+  <img src="https://s1.ax1x.com/2023/02/08/pSRlLjO.png" width = "284.14" height = "70" alt="图片名称" align=center />
 </div>
 
-This is a android project, beasd on LINEAGEOS.
+A android project, beasd on LINEAGEOS.
 ## Our tencent QQ group
 [CHICK HERE](https://jq.qq.com/?_wv=1027&k=VfUw3Mes "Tencent QQ group")
 ## Expected adaptation device
