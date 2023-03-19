@@ -1,4 +1,4 @@
-###### Please do not use browser translation for README.md, you can [CLICK HERE](https://github.com/project-litmus/.github/blob/main/profile/README.md) to read English Version
+###### Please do not use browser translation for README-zh-cn.md, you can [CLICK HERE](https://github.com/project-litmus/.github/blob/main/profile/README.md) to read English Version
   
 <div>    
   <img src="./logo.png" width = "283.33" height = "100" alt="LOGO" />
