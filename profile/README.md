@@ -13,7 +13,7 @@
 <div align="center">  
 	<h2 align=“center”>An Android project</H2>
         <a>
-            <h6 align=“center”>Beasd on lineageOS</h6>
+            <h6 align=“center”>Beasd on [pixel ](https://github.com/pixelexperience)</h6>
         </a>
 </div>
 <div align="center">  
