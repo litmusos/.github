@@ -1,5 +1,7 @@
 ###### Please do not use browser translation for README-zh-cn.md, you can [CLICK HERE](https://github.com/project-litmus/.github/blob/main/profile/README.md) to read English Version
-  
+#### 项目暂时闭源，后续恢复开源状态 
+
+
 <div>    
   <img src="./logo.png" width = "283.33" height = "100" alt="LOGO" />
 </div>
