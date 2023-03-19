@@ -6,7 +6,7 @@
 
 # About
 ### Project Litmus is an Android project , Created to provide a good MIUI like experience
-###### Beasd on [pixelexperience](https://github.com/pixelexperience) 
+###### Based on [pixelexperience](https://github.com/pixelexperience) 
 # Our Talk Group</H2>
 ###### Telegram [CLICK HERE](https://t.me/projectlitmus) 
 ###### QQ [CLICK HERE](https://jq.qq.com/?_wv=1027&k=VfUw3Mes) 
