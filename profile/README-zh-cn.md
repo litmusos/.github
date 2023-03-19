@@ -4,7 +4,7 @@
   <img src="./logo.png" width = "283.33" height = "100" alt="LOGO" />
 </div>
 
-# About
+# 关于
 ### Project Litmus 是一个类原生安卓项目，为了提供较优的 MIUI 体验而生
 ###### 基于 [pixelexperience](https://github.com/pixelexperience) 
 # 我们的交流群组</H2>
