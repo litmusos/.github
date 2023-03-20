@@ -1,6 +1,5 @@
 ###### 请不要对 README.md 使用浏览器翻译，您可以 [点击这里](https://github.com/project-litmus/.github/blob/main/profile/README-zh-cn.md) 查看中文版本
-#### The project is temporarily closed and will be restored to open source status in the future
-  
+
 <div>    
   <img src="https://s1.ax1x.com/2023/03/19/ppYBJMT.png" width = "283.33" height = "100" alt="LOGO" />
 </div>
