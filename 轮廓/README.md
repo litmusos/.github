@@ -1,6 +1,6 @@
 ###### 请不要对 README.md 使用浏览器翻译，您可以 [点击这里](https://github.com/project-litmus/.github/blob/main/profile/README-zh-cn.md) 查看中文版本
 # Closed source
-The project has been closed.  
+The project enter a private state.  
 because [@few-AnLong](https://github.com/few-anlong) is a clown
 
 <div>    
