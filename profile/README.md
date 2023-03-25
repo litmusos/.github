@@ -1,11 +1,11 @@
-###### 请不要对 README.md 使用浏览器翻译，您可以 [点击这里](https://github.com/project-litmus/.github/blob/main/profile/README-zh-cn.md) 查看中文版本
-# Closed source
-The project enter a private state.  
-because [@few-AnLong](https://github.com/few-anlong) is a clown
-
+###### 请不要对 README.md 使用浏览器翻译，您可以 [点击这里](https://github.com/project-litmus/.github/blob/main/profile/README-zh-cn.md) 查看中文版本  
+  
 <div>    
-  <img src="https://s1.ax1x.com/2023/03/19/ppYBJMT.png" width = "283.33" height = "100" alt="LOGO" />
+  <img src="https://s1.ax1x.com/2023/03/25/ppDfbKP.png" width = "250" height = "180" alt="LOGO" />
 </div>
+
+## Notice
+The project enter a private state, because [@few-AnLong](https://github.com/few-anlong) is a clown
 
 # About
 ### Project Litmus is an Android project , Created to provide a good MIUI like experience
