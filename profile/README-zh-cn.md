@@ -1,10 +1,7 @@
 ###### Please do not use browser translation for README-zh-cn.md, you can [CLICK HERE](https://github.com/project-litmus/.github/blob/main/profile/README.md) to read English Version
-# 闭源
-项目已经闭源
-因为[安龙](https://github.com/few-anlong) 是小丑，是傻逼
 
 <div>    
-  <img src="./logo.png" width = "283.33" height = "100" alt="LOGO" />
+  <img src="https://s1.ax1x.com/2023/04/04/pp5krut.png" width = "300" height = "105" alt="LOGO" />
 </div>
 
 # 关于
