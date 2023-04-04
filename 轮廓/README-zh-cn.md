@@ -5,8 +5,7 @@
 </div>
 
 # 关于
-### Project Litmus 是一个 Android 项目，皆在为提供较优的 MIUI 体验而生
+### Litmus OS 是一个 Android 项目，皆在为提供较优的 MIUI 体验而生
 ###### 基于 [pixelexperience](https://github.com/pixelexperience) 构建
-# 我们的交流群组</H2>
-###### Telegram [点击这里](https://t.me/projectlitmus) 
-###### QQ [点击这里](https://jq.qq.com/?_wv=1027&k=VfUw3Mes) 
+# 交流群组</H2>
+###### 暂无
