@@ -1,4 +1,4 @@
-###### 请不要对 README.md 使用浏览器翻译，您可以 [点击这里](https://github.com/project-litmus/.github/blob/main/profile/README-zh-cn.md) 查看中文版本  
+###### 请不要对 README.md 使用浏览器翻译，您可以 [点击这里](https://github.com/project-litmus/.github/blob/main/profile/README-ZH-CN.md) 查看中文版本  
   
 <div align="center">    
   <img src="https://s1.ax1x.com/2023/04/14/p9SUorR.png" width = "115" height = "115" alt="LOGO" />
