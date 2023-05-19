@@ -11,7 +11,7 @@
 </div>
 
 # About
-### Litmus OS is an Android project , Created to provide a good MIUI like experience
+### Litmus OS is an Android project.
 ###### Based on [pixelexperience](https://github.com/pixelexperience) 
 # Our Talk Group</H2>
 ###### Nothing.
