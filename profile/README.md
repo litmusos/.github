@@ -6,10 +6,6 @@
 
 # About
 Litmus OS is an Android project.  
-<p>
-  <a href="manifest"><img src="https://img.shields.io/badge/manifest-%232E333A?style=for-the-badge&logoColor=%23FFFFFF" height = "30" />
-  </a>
-</p>
 
 ## Social media
 <p>
